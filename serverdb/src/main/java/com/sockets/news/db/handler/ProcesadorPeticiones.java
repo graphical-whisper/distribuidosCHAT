@@ -1,8 +1,8 @@
 package com.sockets.news.db.handler;
 
 import com.google.gson.Gson;
-import com.rmi.news.server.dto.PeticionSocketDTO;
-import com.rmi.news.server.dto.RespuestaSocketDTO;
+import com.rmi.news.shared.dto.PeticionSocketDTO;
+import com.rmi.news.shared.dto.RespuestaSocketDTO;
 import com.rmi.news.shared.dto.NoticiaDTO;
 import com.sockets.news.db.storage.GestorArchivosJSON;
 
