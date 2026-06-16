@@ -1,7 +1,10 @@
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\iATM.java
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\iATMProxy.java
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\Main.java
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\RespuestaATM.java
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\Server.java
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\ServidorSocket.java
-C:\Users\rauls\Desktop\Distribuidos\Lab1\lab\src\main\java\com\SolicitudATM.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\server\dao\NoticiaSocketDAO.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\server\dto\PeticionSocketDTO.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\server\dto\RespuestaSocketDTO.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\server\main\ServidorNoticiasApp.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\server\service\ServicioNoticiasImpl.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\shared\dto\NoticiaDTO.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\shared\dto\UsuarioDTO.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\shared\exception\PermisoDenegadoException.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\shared\IServicioAutenticacion.java
+C:\Users\rauls\Desktop\Distribuidos\Lab1\server\src\main\java\com\rmi\news\shared\IServicioNoticias.java
